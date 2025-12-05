@@ -29,35 +29,31 @@ My GitHub showcases my academic journey with hands-on projects in Web apps, NLP,
 
 📌 Featured Projects
 
-   🎬 Filmfuse — Movie Recommendation System
+   1.🎬 Filmfuse — Movie Recommendation System
        A web-based movie recommendation engine using similarity scoring and Python backend.
       🔗 Repo: Filmfuse
 
-   🧪 Anti-Doping Awareness App
+   2.🧪 Anti-Doping Awareness App
        Interactive games & quizzes to educate athletes about anti-doping rules and safe practices.
       🔗 Repo: Antidoping
 
-   📝 Automated Question Generation (AQG)
+   3.📝 Automated Question Generation (AQG)
        Uses NLP to generate meaningful questions from text automatically.
        🔗 Repo: Automated-Question-Generation
 
-   ❓ Automated Distractor Generation
+   4.❓ Automated Distractor Generation
        Generates plausible distractor options for MCQs using NLP.
       🔗 Repo: AutomatedDistractors
 
-  ⛅ Weather Forecast App
+  5.⛅ Weather Forecast App
        Real-time weather information using API integration.
       🔗 Repo: Weather-Forecast
 
-  🍽️ Food Recipe Search App
+  6.🍽️ Food Recipe Search App
       Search recipes and view ingredients, steps, and cooking instructions.
      🔗 Repo: Food-Recipe
 
 
-📊 GitHub Stats
-
-![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manucharanreddy04&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manucharanreddy04&layout=compact&theme=dracula)
 
 📫 Contact Me
 
