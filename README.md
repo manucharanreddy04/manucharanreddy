@@ -31,29 +31,25 @@ My GitHub showcases my academic journey with hands-on projects in Web apps, NLP,
 
    1.🎬 Filmfuse — Movie Recommendation System
        A web-based movie recommendation engine using similarity scoring and Python backend.
-      🔗 Repo: Filmfuse
+     
 
    2.🧪 Anti-Doping Awareness App
        Interactive games & quizzes to educate athletes about anti-doping rules and safe practices.
-      🔗 Repo: Antidoping
+      
 
    3.📝 Automated Question Generation (AQG)
        Uses NLP to generate meaningful questions from text automatically.
-       🔗 Repo: Automated-Question-Generation
-
+       
    4.❓ Automated Distractor Generation
        Generates plausible distractor options for MCQs using NLP.
-      🔗 Repo: AutomatedDistractors
-
+     
   5.⛅ Weather Forecast App
        Real-time weather information using API integration.
-      🔗 Repo: Weather-Forecast
+      
 
   6.🍽️ Food Recipe Search App
       Search recipes and view ingredients, steps, and cooking instructions.
-     🔗 Repo: Food-Recipe
-
-
+    
 
 📫 Contact Me
 
