@@ -16,6 +16,9 @@ My GitHub showcases my academic journey with hands-on projects in Web apps, NLP,
 
 🤝 Open to collaboration on development projects
 
+
+
+
 🛠️ Tech Stack
    
   Languages
@@ -26,6 +29,10 @@ My GitHub showcases my academic journey with hands-on projects in Web apps, NLP,
 
   Tools & Platforms
   Git • GitHub • VS Code • Jupyter Notebook • Postman
+
+
+
+  
 
 📌 Featured Projects
 
